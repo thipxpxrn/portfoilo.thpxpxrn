@@ -18,7 +18,7 @@ html {
 }
 
 p {
-  color: rgb(125, 168, 194);
+  color: rgb(138, 187, 154);
 }
 
 /* TRANSITION */
@@ -101,7 +101,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: rgb(255, 253, 253);
+  background-color: rgb(155, 211, 179);
   width: fit-content;
   max-height: 0;
   overflow: hidden;
@@ -113,7 +113,7 @@ a:hover {
   padding: 10px;
   text-align: center;
   font-size: 1.5rem;
-  color: black;
+  color: rgb(231, 172, 172);
   text-decoration: none;
   transition: all 0.3 ease-in-out;
 }
@@ -235,7 +235,7 @@ section {
 
 .btn-color-1,
 .btn-color-2 {
-  border: rgb(53, 53, 53) 0.1rem solid;
+  border: rgb(168, 227, 210) 0.1rem solid;
 }
 
 .btn-color-1:hover,
@@ -246,7 +246,7 @@ section {
 .btn-color-1,
 .btn-color-2:hover {
   background: rgb(53, 53, 53);
-  color: white;
+  color: rgb(175, 235, 221);
 }
 
 .btn-color-1:hover {
@@ -258,7 +258,7 @@ section {
 }
 
 .btn-color-2:hover {
-  border: rgb(255, 255, 255) 0.1rem solid;
+  border: rgb(157, 189, 139) 0.1rem solid;
 }
 
 .btn-container {
@@ -300,7 +300,7 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: white;
+  background:#799680;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
@@ -365,7 +365,7 @@ article .icon {
 
 .color-container {
   border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
+  background:#799680 ;
 }
 
 .project-img {
@@ -376,12 +376,12 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: rgb(241, 243, 241);
 }
 
 .project-btn {
-  color: black;
-  border-color: rgb(163, 163, 163);
+  color: rgb(171, 207, 176);
+  border-color: rgb(215, 224, 218);
 }
 
 /* CONTACT */
@@ -397,8 +397,8 @@ article .icon {
   display: flex;
   justify-content: center;
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border: rgb(32, 67, 33) 0.1rem solid;
+  border-color: rgb(53, 95, 6);
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
